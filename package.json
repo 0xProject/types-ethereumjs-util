@@ -6,14 +6,14 @@
   "types": "index.d.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/machinomy/types-ethereumjs-util.git"
+    "url": "git+https://github.com/0xproject/types-ethereumjs-util.git"
   },
   "author": "Sergey Ukustov <sergey.ukustov@machinomy.com>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/machinomy/types-ethereumjs-util/issues"
+    "url": "https://github.com/0xproject/types-ethereumjs-util/issues"
   },
-  "homepage": "https://github.com/machinomy/types-ethereumjs-util#readme",
+  "homepage": "https://github.com/0xproject/types-ethereumjs-util#readme",
   "devDependencies": {
     "types-bn": "^0.0.1",
     "types-buffer": "^0.0.2"
